@@ -64,6 +64,9 @@ A empresa pode reduzir seu churn ao:
 
 ---
 
+## ✍️ Autor
+
+Feito por **Gabriel Alexandre** – em constante evolução como analista de dados, focado em entregar valor através de análises reais e visualmente interpretáveis.
 
 [🔗 Linkedin](https://www.linkedin.com/in/gabrielalexandress) 
 
