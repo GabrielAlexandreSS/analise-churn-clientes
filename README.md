@@ -1,4 +1,4 @@
-# 📉 Projeto 02 – Análise de Churn (Cancelamento de Clientes)
+# 📉 Análise de Churn (Cancelamento de Clientes)
 
 ## 📌 Objetivo
 Analisar dados de clientes de uma empresa de assinaturas para entender os padrões por trás do cancelamento do serviço (churn), com foco em características como plano, idade, tempo como cliente, uso do suporte e nível de satisfação.
